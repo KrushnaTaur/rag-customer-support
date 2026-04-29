@@ -52,7 +52,7 @@ REST API (FastAPI) / CLI (Rich)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-customer-support.git
+git clone https://github.com/KrushnaTaur/rag-customer-support.git
 cd rag-customer-support
 ```
 
@@ -241,13 +241,5 @@ All configuration is via `.env` file:
 | Testing | Pytest |
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
 
 Built as part of the RAG Internship Final Project — Design & Build a RAG-Based Customer Support Assistant.
