@@ -1,0 +1,49 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Data & DB (don't commit large files)
+data/chroma_db/
+data/uploads/
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+.env
+data/chroma_db/
+data/uploads/
+logs/
+__pycache__/
+*.db
+*.sqlite
+venv/
